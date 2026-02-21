@@ -86,3 +86,14 @@ Uma coleção de projetos desenvolvidos ou co-desenvolvidos por mim no âmbito d
 <b>CG</b> <i>(Computação Gráfica)</i> <br>
 
 </details>
+
+
+
+<div align="center">
+  <a href="README.pt.md">
+    <img src="https://img.shields.io/badge/Lang-Português-green?style=for-the-badge" alt="Ler em Português" />
+  </a>
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/Lang-English-blue?style=for-the-badge" alt="Read in English" />
+  </a>
+</div>
