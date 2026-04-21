@@ -97,3 +97,9 @@ Uma coleção de projetos desenvolvidos ou co-desenvolvidos por mim no âmbito d
     <img src="https://img.shields.io/badge/Lang-English-blue?style=for-the-badge" alt="Read in English" />
   </a>
 </div>
+
+
+# Projetos de outras pessoas
+- [Francisca105](https://github.com/Francisca105/ist-leic-a)
+- [CarolinaMatias](https://github.com/CarolinaMatias)
+- [s1gn3rs](https://github.com/s1gn3rs)
